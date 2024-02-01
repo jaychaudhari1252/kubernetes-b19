@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: jaychaudhari1252/fff:new
+          image: jaychaudhari1252/front:new
           ports:
             - containerPort: 80
   replicas: 3
