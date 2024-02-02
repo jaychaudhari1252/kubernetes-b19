@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: jaychaudhari1252/backed:latest
+          image: 
           ports:
             - containerPort: 8080
   replicas: 3
