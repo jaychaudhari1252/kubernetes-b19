@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: 
+          image: jaychaudhari1252/kubernetes:frontend
           ports:
             - containerPort: 80
   replicas: 3
